@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/40swplhp3s4pgw11/branch/main?svg=true)](https://ci.appveyor.com/project/ssw30/patterns-ssw-part01/branch/main)
+[![Build status](https://ci.appveyor.com/api/projects/status/j4innc0abbkq5d1q/branch/main?svg=true)](https://ci.appveyor.com/project/AleksandrMuzhev/testtest/branch/main)
